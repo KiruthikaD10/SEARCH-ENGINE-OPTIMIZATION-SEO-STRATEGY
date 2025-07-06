@@ -77,6 +77,5 @@ Technical SEO focuses on the backend structure of the website to ensure it is ac
 The SEO strategy targets performance on **Google Search Engine**. Content is hosted on platforms like **WordPress**, and promoted via **social media channels** (Instagram, LinkedIn, Facebook) for enhanced engagement and potential backlink generation.
 
 
-This comprehensive SEO plan ensures long-term visibility, better indexing, and consistent improvements in search engine ranking.
-
+This comprehensive SEO plan ensures long-term visibility, better indexing, and consistent improvements in search engine ranking .
 
